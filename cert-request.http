@@ -1,0 +1,5 @@
+GET https://localhost:8443/server/test
+
+###
+GET http://localhost:8444/client/test
+
