@@ -13,7 +13,7 @@ keytool -list -v -keystore springboot.jks password is “password”
 
 keytool -export -keystore springboot.jks -alias springboot -file myCertificate.crt
 
-###4 http
+### 4 http
 Server client : 
 GET https://localhost:8443/server/test
 
